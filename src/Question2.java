@@ -7,6 +7,6 @@ public class Question2 {
         weekend day1= weekend.SATURDAY;
         weekend day2= weekend.SUNDAY;
 
-        System.out.println("days in weekend are "+day1+" and"+day2);
+        System.out.println("days in weekend are"+day1+" and"+day2);
     }
 }

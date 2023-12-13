@@ -12,6 +12,6 @@ public class Question3 {
         shapes third=shapes.SQUARE;
         shapes fourth=shapes.TRIANGLE;
         shapes fifth=shapes.RECTANGULAR;
-        System.out.println();
+        System.out.println("first shape is "+first);
     }
 }

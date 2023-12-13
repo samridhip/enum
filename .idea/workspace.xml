@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="548cc92f-7c9c-4e91-97d7-fbea1cd49ef2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Question4.java" afterDir="false" />
+    <list default="true" id="548cc92f-7c9c-4e91-97d7-fbea1cd49ef2" name="Changes" comment="enums">
+      <change beforePath="$PROJECT_DIR$/src/Question3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Question3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702491474184</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="enums">
+      <created>1702492399623</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1702492399623</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
